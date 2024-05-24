@@ -1,4 +1,4 @@
-# Mini-Project-1 Design Document
+# UAtify
 
 ## Table of Contents
 
@@ -30,6 +30,8 @@ At a high level, the program:
     python3 main.py xxxx.db
     ```
    Replace `xxxx` with the name of your database file.
+
+   In this case, you can use tables.db
 
 ### Login or Create Account
 
